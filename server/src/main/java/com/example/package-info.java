@@ -1,4 +1,4 @@
 /**
-* Thid is a package name
+* Thid is a package name.
 */
 package com.example;
